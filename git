@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . && git commit -m "exso 1" && git push
+git add . && git commit -m "exso 2 - F-C" && git push
