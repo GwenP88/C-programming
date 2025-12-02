@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757595616 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\conditions\jeuplusmoins\jeuplusmoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

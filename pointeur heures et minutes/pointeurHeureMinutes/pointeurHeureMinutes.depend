@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758014965 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\pointeur heures et minutes\pointeurheureminutes\main.c
+	<stdio.h>
+	<stdlib.h>
+

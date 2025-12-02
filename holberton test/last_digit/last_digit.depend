@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761123087 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\holberton test\last_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

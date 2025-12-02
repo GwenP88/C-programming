@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758639447 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\strtol strtod\strtol strtod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

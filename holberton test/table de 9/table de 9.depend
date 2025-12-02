@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761142353 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\holberton test\table de 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

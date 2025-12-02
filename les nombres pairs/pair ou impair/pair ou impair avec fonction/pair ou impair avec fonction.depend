@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758022989 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\les nombres pairs\afficher les nbr pairs\pair ou impair avec fonction\main.c
+	<stdio.h>
+	<stdlib.h>
+

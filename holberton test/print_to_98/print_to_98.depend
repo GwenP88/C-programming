@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761146391 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\holberton test\print_to_98\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

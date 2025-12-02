@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1757064264 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\calculatrice\calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+

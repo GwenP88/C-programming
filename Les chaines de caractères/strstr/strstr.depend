@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758266545 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\les chaines de caractères\strstr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

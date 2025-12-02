@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1757411012 source:c:\users\gpich\onedrive\bureau\cours dev\formation c\conditions\prototype\aire.c
+	"aire.h"
+
+1757411023 c:\users\gpich\onedrive\bureau\cours dev\formation c\conditions\prototype\aire.h
+	<stdio.h>
+
